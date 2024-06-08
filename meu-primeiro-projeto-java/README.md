@@ -11,7 +11,7 @@ O workspace contém duas pastas por padrão, sendo:
 
 Entretanto, os arquivos de saída compilados serão gerados na pasta `bin` por padrão.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+> Se você desejar alterar a estrutura de pastas, abra `.vscode/settings.json` e atualize as configurações relacionadas.
 
 ## Gerenciamento de Dependências
 
