@@ -24,4 +24,4 @@ hs_err_pid*
 replay_pid*
 
 # ignorar configurações
-meu-primeiro-projeto-java/.vscode/settings.json
+meu-primeiro-projeto-java/.vscode/
